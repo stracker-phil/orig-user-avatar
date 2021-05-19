@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Orig User Avatar
-Plugin URI:  http://wordpress.org/plugins/orig-user-avatar/
+Plugin URI:  https://github.com/stracker-phil/orig-user-avatar
 Description: Use any image from your WordPress Media Library as a custom user avatar. Add your own Default Avatar.
 Author:      Philipp Stracker
-Author URI:  https://github.com/stracker-phil/orig-user-avatar
+Author URI:  https://github.com/stracker-phil
 Version:     2.2.16
 Text Domain: wp-user-avatar
 Domain Path: /lang/
